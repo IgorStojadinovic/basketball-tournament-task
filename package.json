@@ -1,0 +1,20 @@
+{
+  "name": "basketball-turnament",
+  "version": "1.0.0",
+  "description": "codebehind test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorStojadinovic/basketball-tournament-task.git"
+  },
+  "author": "Igor Stojadinovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorStojadinovic/basketball-tournament-task/issues"
+  },
+  "homepage": "https://github.com/IgorStojadinovic/basketball-tournament-task#readme"
+}
